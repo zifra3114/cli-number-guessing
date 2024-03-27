@@ -1,6 +1,6 @@
 {
-  "name": "245-zifra-cli-number-guessing",
-  "version": "1.0.2",
+  "name": "245zifra-cli-number-guessing",
+  "version": "1.0.1",
   "description": "This is cli based numbers guessing game",
   "main": "index.js",
   "type": "module",
